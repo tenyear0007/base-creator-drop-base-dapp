@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Base Drop Pass">
+  <rect width="512" height="512" rx="120" fill="#171310"/>
+  <path d="M120 138h272v236H120z" fill="#fffaf1"/>
+  <path d="M120 138h272v70H120z" fill="#ffcf5a"/>
+  <path d="M167 265h178" stroke="#171310" stroke-width="22" stroke-linecap="round"/>
+  <path d="M167 316h118" stroke="#171310" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="372" cy="138" r="32" fill="#ff5a3d"/>
+  <circle cx="120" cy="374" r="32" fill="#0052ff"/>
+</svg>

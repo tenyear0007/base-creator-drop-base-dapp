@@ -1,0 +1,10 @@
+{
+  "app": "Base Creator Drop",
+  "theme": "creator drop",
+  "baseAppId": "6a0080cbef4989446dc30c45",
+  "builderWallet": "0xEe6501C6d317beA3f69103749B61e1B493fF859b",
+  "builderCode": "bc_096de5rw",
+  "network": "Base",
+  "liveDemo": "https://base-creator-drop.vercel.app",
+  "repository": "https://github.com/tenyear0007/base-creator-drop-base-dapp"
+}
